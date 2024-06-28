@@ -1,2 +1,1 @@
-# find-a-doctor
-Small project with webscraping
+Projekt, w którym na podstawie imienia i nazwiska szukamy lekarzy na stronie www.rankinglekarzy.pl. Kod pocztowy miejsca zamieszkania jest porównywany do kodu podanego na profilu lekarza. Jeśli znajduję się w odległości do 100km, osoba jest oznaczana jako "Może być lekarzem".
